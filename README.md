@@ -3,19 +3,6 @@ Personal Finance Tracker is a simple and intuitive web application built with Re
 
 This project focuses on clean UI/UX design, interactive features, and real-time state management using React’s useState hook. It’s structured with reusable, modular components and styled using vanilla CSS for responsiveness across devices.
 
- # Project Structure
-src/
-├── components/
-│ ├── Dashboard.jsx
-│ ├── ExpenseForm.jsx
-│ ├── Header.jsx
-│ ├── IncomeForm.jsx
-│ ├── Overview.jsx
-│ └── SavingsGoalForm.jsx
-├── App.jsx
-├── App.css
-├── main.jsx
-
 # Features
 - Add Income & Expenses
 - Track Net Balance
