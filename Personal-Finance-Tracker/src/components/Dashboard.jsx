@@ -30,3 +30,5 @@ const Dashboard = ({ incomes, expenses, savingsGoal }) => {
 };
 
 export default Dashboard;
+// This component displays a summary of the user's financial status, including total income, expenses, net balance, and progress towards a savings goal.
+// It calculates the total income and expenses, computes the net balance, and shows a progress bar indicating how close the user is to their savings goal.
